@@ -1,0 +1,8 @@
+renders/
+.hyperframes/
+.media/
+node_modules/
+boards/check/
+boards/dbg/
+boards/.film.html
+boards/.posed.html
