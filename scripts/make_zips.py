@@ -8,7 +8,7 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PEOPLE = [("Daksh", "DAKSH.md"), ("Kartik", "KARTIK.md")]
+PEOPLE = [("Daksh", "docs/team/DAKSH.md"), ("Kartik", "docs/team/KARTIK.md")]
 
 
 def main():

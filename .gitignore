@@ -9,3 +9,4 @@ dist/
 results/*.log
 results/graded/_cache/
 results/graded/_unused/
+.pytest_cache/

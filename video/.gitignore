@@ -7,3 +7,4 @@ boards/dbg/
 boards/.film.html
 boards/.posed.html
 .thumbnails/
+.waveform-cache/
