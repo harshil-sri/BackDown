@@ -122,7 +122,10 @@ class FixtureTests(unittest.TestCase):
         outside = self.path / "untouched.jsonl"
         outside.write_text("untouched")
         self.files[0].unlink()
-        self.files[0].symlink_to(outside)
+        try:
+            self.files[0].symlink_to(outside)
+        except OSError:
+            self.skipTest("this OS user cannot create symlinks (Windows without Developer Mode)")
         with self.assertRaises(ValueError):
             generate(self.path / "first")
         self.assertEqual(outside.read_text(), "untouched")
