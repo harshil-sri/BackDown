@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use BackDown, please cite it as below."
+title: "BackDown: Comparing Initial and Defended Claim Strength Under Challenge"
+type: software
+authors:
+  - given-names: Harshil
+    family-names: Srivastav
+  - name: Daksh
+  - given-names: Kartik
+    family-names: Arora
+repository-code: "https://github.com/harshil-sri/BackDown"
+license: MIT
+date-released: "2026-11-16"
+keywords:
+  - language models
+  - sycophancy
+  - calibration
+  - epistemics
+  - evaluation
+  - benchmark
