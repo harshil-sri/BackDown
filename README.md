@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="media/backdown-intro.mp4"><img src="media/poster.jpg" alt="BackDown: what does a model actually stand behind?" width="820"></a>
+<a href="https://youtu.be/be__9R-EFcI"><img src="media/poster.jpg" alt="BackDown: what does a model actually stand behind?" width="820"></a>
 
 # BackDown
 
@@ -13,7 +13,7 @@ A benchmark that measures the gap between how confident a model sounds in its fi
 [![Apart Research sprint](https://img.shields.io/badge/Apart%20Research-AI%20x%20Epistemics-111.svg)](https://apartresearch.com)
 [![Conversations](https://img.shields.io/badge/graded%20conversations-2%2C560-111.svg)](results/graded)
 
-[Watch the 60-second intro](media/backdown-intro.mp4) · [How it works](#how-a-backdown-test-works) · [Findings](#what-we-found) · [Reproduce](#reproduce-it) · [Team](#team)
+[Watch the 60-second intro](https://youtu.be/be__9R-EFcI) · [How it works](#how-a-backdown-test-works) · [Findings](#what-we-found) · [Reproduce](#reproduce-it) · [Team](#team)
 
 </div>
 
